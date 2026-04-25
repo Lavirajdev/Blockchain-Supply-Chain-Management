@@ -33,3 +33,9 @@ to ensure data transparency and immutability.
 ## 👨‍💻 Developer
 **Lavish Rajdev** — M.Tech CSE | Blockchain & Salesforce Developer
 📧 lavirajdev@gmail.com
+---
+
+### 📄 Research Publication
+- 📰 **Blockchain Technology: Transforming Supply Chain Management**
+- 📖 Published in IJTSRD | ISSN: 2456-6470 | Volume-9 | Issue-3 | June 2025
+- 🔗 [Read Paper](https://www.ijtsrd.com/management/other/81088/blockchain-technology-transforming-supply-chain-management/lavish-rajdev)
